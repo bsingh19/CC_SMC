@@ -4,6 +4,8 @@
 
 SMC is a Java application that translates a state transition table into a program that implements the described state machine.  Output languages include Java, Go, Dart, C, and C++.  Adding other languages is trivial.
 
+Compile now.
+
 ### Command Line
 `ant compile && ant jar`
 
